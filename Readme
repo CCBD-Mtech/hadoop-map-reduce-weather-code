@@ -1,0 +1,13 @@
+Here are the instructions for the first assignment.
+
+The purpose of the first assignment is get familiar with simple map and reduce interfaces.
+
+Here are the steps:
+1) Let us take week of temperature data for Bangalore city,
+2) Gather data for the reequired number of weeks, (40)
+3) Find out the max temeprature for Bangalore for the year, 2015.
+4) Please add below information:
+   a) Week of Data,
+   b) Src code,
+   c) jar file with output.
+ 
